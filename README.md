@@ -2,7 +2,7 @@
 
 A simple and responsive results summary component built with HTML, CSS, and JavaScript.
 
-![Component Screenshot](./assets/screenshot.png)
+![Component Screenshot](./design/active-states.jpg)
 
 ## Features
 
@@ -12,8 +12,8 @@ A simple and responsive results summary component built with HTML, CSS, and Java
 
 ## Demo
 
-![Mobile View](./assets/mobile-view.png)
-![Desktop View](./assets/desktop-view.png)
+![Mobile View](./design/mobile-view.jpg)
+![Desktop View](./design/desktop-view.jpg)
 
 ## Getting Started
 
