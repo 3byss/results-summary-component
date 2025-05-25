@@ -12,8 +12,8 @@ A simple and responsive results summary component built with HTML, CSS, and Java
 
 ## Demo
 
-![Mobile View](./design/mobile-view.jpg)
-![Desktop View](./design/desktop-view.jpg)
+![Mobile View](./design/mobile-design.jpg)
+![Desktop View](./design/desktop-design.jpg)
 
 ## Getting Started
 
